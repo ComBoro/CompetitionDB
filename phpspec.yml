@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: CompetitionDB
+        psr4_prefix: CompetitionDB
+        src_path: app
