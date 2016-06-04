@@ -11,7 +11,7 @@
 					<div class="form-group">
 						<input type="text" placeholder="Tags" class="form-control" />
 					</div>
-					<button class="btn btn-primary" type="button">Search</button>
+					<button class="btn btn-primary" type="button">Search?</button>
 				</div>
 			</form>
 		</div>
